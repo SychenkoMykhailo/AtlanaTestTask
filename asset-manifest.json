@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/atlana.test.task/static/css/main.2d8ebf3c.chunk.css",
+    "main.js": "/atlana.test.task/static/js/main.dcf425f8.chunk.js",
+    "main.js.map": "/atlana.test.task/static/js/main.dcf425f8.chunk.js.map",
+    "runtime-main.js": "/atlana.test.task/static/js/runtime-main.71ccc3c5.js",
+    "runtime-main.js.map": "/atlana.test.task/static/js/runtime-main.71ccc3c5.js.map",
+    "static/js/2.9bc946bf.chunk.js": "/atlana.test.task/static/js/2.9bc946bf.chunk.js",
+    "static/js/2.9bc946bf.chunk.js.map": "/atlana.test.task/static/js/2.9bc946bf.chunk.js.map",
+    "index.html": "/atlana.test.task/index.html",
+    "static/css/main.2d8ebf3c.chunk.css.map": "/atlana.test.task/static/css/main.2d8ebf3c.chunk.css.map",
+    "static/js/2.9bc946bf.chunk.js.LICENSE.txt": "/atlana.test.task/static/js/2.9bc946bf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71ccc3c5.js",
+    "static/js/2.9bc946bf.chunk.js",
+    "static/css/main.2d8ebf3c.chunk.css",
+    "static/js/main.dcf425f8.chunk.js"
+  ]
+}
