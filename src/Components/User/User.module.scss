@@ -1,0 +1,22 @@
+.container,
+.repos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 2rem;
+}
+.info {
+  color: var(--secondaryColor);
+}
+
+.repos {
+  padding-top: 2rem;
+  margin: 0 auto;
+  width: 400px;
+  flex-direction: column;
+}
+.avatar {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
